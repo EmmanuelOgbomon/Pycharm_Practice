@@ -1,0 +1,1 @@
+print("This is solely for practice purposes")
